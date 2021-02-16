@@ -1,4 +1,4 @@
-# Backend Architecture Nodejs
+# Backend Architecture Nodejs With PostgreSQL
 
 ## The folder structure 🏢
 
